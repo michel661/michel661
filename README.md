@@ -1,16 +1,16 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 💙
 
-<!--
-**michel661/michel661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e michel661 
 
-Here are some ideas to get you started:
+- Estou estudado na [alura](https://www.alura.com.br)
+- Estou me desemvouvendo na limguegem javaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desemvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ###Voce pode entra em contato comigo 📫
+
+- pinto.michel@escola.pr.gov.br
+
+- pinto.michel@escola.pr.gov.br
+
+
+- ![image](https://github.com/user-attachments/assets/d190a39b-da87-4afe-a9d5-485209f33ab8)
